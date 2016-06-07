@@ -40,13 +40,13 @@
     }
   },
   "date": "August 6-7",
-  "venue": "Make School SF",
+  "venue": "TBD",
   "btn_sponsor": "Sponsor Us",
   "btn_register": [
     "Register",
     {
       "$type": "link",
-      "$value": "https://secondgen.typeform.com/to/u31PN0"
+      "$value": "https://secondgen.typeform.com/to/gmCd5p"
     }
   ],
   "no_registration_yet": "Registration is not yet open.<br>Please check back in a few weeks!",
@@ -301,16 +301,6 @@
             "$value": "sponsors/2ndGen.png"
           }
         },
-        {
-          "link": {
-            "$type": "link",
-            "$value": "https://www.thalmic.com"
-          },
-          "image": {
-            "$type": "image",
-            "$value": "sponsors/thalmiclabs.png"
-          }
-        }
       ]
     },
     "silver": {
